@@ -24,10 +24,9 @@ sudo bash /home/batan/mini/install.sh
 |                          | |
 |                          | |
 |                          | |
-|---|---|
-|REMOVED                   |  anything gnome,xfce4 or desktop otherwise|
-|                          |  any other bloat|
-|                          |  possible decors such as entire directories /usr/share/{backgrounds,fonts,themes,ect}|
-|                          |  and if mandatory replaced with smaller alternatives|
-|                          |  complete user configuration directory and its content and replaced with sym-links|
+|REMOVED                     anything gnome,xfce4 or desktop otherwise|
+|                            any other bloat|
+|                            possible decors such as entire directories /usr/share/{backgrounds,fonts,themes,ect}|
+|                            and if mandatory replaced with smaller alternatives|
+|                            complete user configuration directory and its content and replaced with sym-links|
 
