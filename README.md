@@ -14,8 +14,8 @@ sudo bash /home/batan/mini/install.sh
 ```
 ### To Consider
 
-<pre>Default backup directory         /home/lc-backup
-Default user configuration       /home/config
+<pre>Default backup directory        /home/lc-backup
+Default user configuration      /home/config
 In Development                  Seperate ext4 partition of 4GB mounted on boot 
 *fstab*                         UUID="" /home/config ext4 defaults,rw,(uid=1000),umask=0011,dmask=0000 0 0
 ENVIRONMENT_VARIABLES 
